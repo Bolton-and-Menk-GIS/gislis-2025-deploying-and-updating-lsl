@@ -16,7 +16,6 @@ build:
   stage: build
   image: node:${NODE_VERSION}
   before_script:
-    - cd presentation
     - npm ci
   script:
     - npm run build
