@@ -5,7 +5,7 @@ theme: ./bmi-theme
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: Deploying and Updating Custom Soluttion Templates
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -22,21 +22,25 @@ transition: slide-left
 mdc: true
 ---
 
-# Welcome to Slidev
+# Deploying and Updating Custom Solution Templates
 
-Presentation slides for developers. Hi dave
-
----
-
-## slide 2
-
-I quite fantasy football cuz I suck
----
-
-## slide 3
-
-![content](./images/content.png)
+Dave Malm and Phil Nagel
 
 ---
-src: ./pages/example.md
+src: ./pages/overview.md
+---
+---
+src: ./pages/background.md
+---
+---
+src: ./pages/problem.md
+---
+---
+src: ./pages/approach.md
+---
+---
+src: ./pages/reality.md
+---
+---
+src: ./pages/outcome.md
 ---
