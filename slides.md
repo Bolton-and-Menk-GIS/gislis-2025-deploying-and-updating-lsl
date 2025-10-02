@@ -26,6 +26,8 @@ mdc: true
 
 Dave Malm and Phil Nagel
 
+<QRCode />
+
 ---
 src: ./pages/overview.md
 ---
