@@ -2,41 +2,45 @@
 class: text-left
 ---
 
-# Outcome: Inventory Submission
+# Where Are We Now?
 
-- Due to MDH July 15, 2024; EPA deadline October 16, 2024. All Minnesota submissions were posted to the Lead Inventory Tracking Tool
+<v-clicks>
 
----
+- We Have Successfully Built (Most of) the Plane While Flying It
+- Dozens of Users Updating Inventories While We Upgraded Maps and Apps
+- New Apps Replaced Old in Shared Groups in Real Time
+- Generated USPS Validated Mailing Lists for 108+ Communities
+- Explored the Limits of Some ESRI Products
 
-# Outcome: Hosted layers and sharing
-
-- Created hosted feature layer, shared to U-Spatial, and scripted updates for ongoing submissions
-
----
-
-# Outcome: Deliverables
-
-- 42-page help document, 4 toolsets (12 tools), and many automated scripts to simplify deployment
+</v-clicks>
 
 ---
 
-# Outcome: Scale
+# Where Are We Now?
 
-- Deployed or converted ~90 solutions across client orgs
+<v-clicks>
+
+- Inventory Updates Due Over Next Few Weeks
+- Submission Tool To Update Feature Layer
+
+</v-clicks>
+
+<v-after>
+
+<div style="min-height:calc(60vh - 6rem); display:flex; align-items:center; justify-content:center;">
+    <div style="text-align:center; width:100%; max-width:500px; padding:0 1rem;">
+        <img src="/images/SubmissionTool.png" alt="Submission Tool" style="max-width:500px; width:80%; height:auto; display:block; margin:0 auto;" />
+    </div>
+</div>
+
+</v-after>
 
 ---
 
-# Next steps
+# Where Are We Now?
 
-- Contact all residents with lead, galvanized, or unknown; create replacement plans (expected replacement in ~10 years), and refine LSL solution and sampling requirements
+- Inventory Updates Due Over Next Few Weeks
+- Submission Tool To Update Feature Layer
+- Plan For Sampling and Replacements
+
 ---
-class: text-left
----
-
-# Outcome
-
-- Where we ended up
-- 42-page help document
-- 4 toolsets (12 tools)
-- Deployed or converted 90 solutions
-- Lessons learned and next steps

@@ -82,9 +82,9 @@ class: text-left
 
 <v-after>
 
-<div style="min-height:calc(60vh - 6rem); display:flex; align-items:center; justify-content:center;">
-    <div style="text-align:center; width:100%; max-width:900px; padding:0 1rem;">
-        <img src="/images/LSLEditorHub.png" alt="LSL Editor Hub" style="max-width:500px; width:80%; height:auto; display:block; margin:0 auto;" />
+<div style="min-height:calc(55vh - 6rem); display:flex; align-items:center; justify-content:center;">
+    <div style="text-align:center; width:100%; max-width:600px; padding:0 1rem;">
+        <img src="/images/SharedGroups.gif" alt="Shared Groups" style="max-width:500px; width:80%; height:auto; display:block; margin:0 auto;" />
     </div>
 </div>
 
@@ -97,10 +97,10 @@ class: text-left
 - Bolton & Menk Chose GIS to Manage GIS Inventories
 - Deployed New ArcGIS Online Orgs For Most Communities
 - Managed With Shared Groups and Collaborations
+- Deployed Lead Service Line Inventory Solution
 
 <v-clicks>
 
-- Deployed Lead Service Line Inventory Solution
 - Stock Solution Was Inadequate
 
 </v-clicks>

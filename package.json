@@ -8,7 +8,6 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@cheprasov/qrcode": "^0.1.0",
     "@slidev/cli": "^52.2.4",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
@@ -16,8 +15,5 @@
   },
   "devDependencies": {
     "sass-embedded": "^1.93.2"
-  },
-  "volta": {
-    "node": "22.20.0"
   }
 }
