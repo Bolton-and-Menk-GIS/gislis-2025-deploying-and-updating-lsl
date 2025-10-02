@@ -46,13 +46,11 @@ class: text-left
 - Brought old services to same schema as new solution
   - Required updating data to accommodate domain changes
 - Added related table for tracking notifications
-<div style="min-height:calc(65vh - 6rem); display:flex; align-items:top; justify-content:center; padding-top:1rem; box-sizing:border-box;">
+<div style="min-height:calc(75 - 6rem); display:flex; align-items:top; justify-content:center; padding-top:1rem; box-sizing:border-box;">
     <div style="text-align:center; width:100%; max-width:700px; padding:0 1rem;">
-        <img src="/images/code_sample.png" alt="Code Sample" style="max-width:350px; width:80%; height:auto; display:block; margin:0 auto;" />
+        <img src="/images/code_sample.png" alt="Code Sample" style="max-width:400px; width:80%; height:auto; display:block; margin:0 auto;" />
     </div>
 </div>
-
-
 
 ---
 

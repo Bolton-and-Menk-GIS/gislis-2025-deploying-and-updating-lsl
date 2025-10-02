@@ -72,13 +72,9 @@ class: text-left
 
 # Lead Service Line Inventory Solution
 
-<v-clicks>
-
 - Bolton & Menk Chose GIS to Manage GIS Inventories
 - Deployed New ArcGIS Online Orgs For Most Communities
 - Managed With Shared Groups and Collaborations
-
-</v-clicks>
 
 <v-after>
 
