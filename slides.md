@@ -20,6 +20,7 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+favicon: /images/favicon.ico
 ---
 
 # Deploying and Updating Custom Solution Templates
